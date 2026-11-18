@@ -1,0 +1,48 @@
+{
+  "change_note": "no new or revised observations since the previous check",
+  "check_type": "scheduled refresh command (local run)",
+  "last_success_utc": "2026-11-18T19:10:37+00:00",
+  "raw_latest": {
+    "2062815": {
+      "date": "2026-10-01",
+      "value": 6.7
+    },
+    "41690973": {
+      "date": "2026-10-01",
+      "value": 170.4
+    },
+    "62305752": {
+      "date": "2026-06-01",
+      "value": 2524127.0
+    },
+    "87008984": {
+      "date": "2026-09-01",
+      "value": 5350.1
+    },
+    "BD.CDN.10YR.DQ.YLD": {
+      "date": "2026-11-16",
+      "value": 3.81
+    },
+    "CUUR0000SA0": {
+      "date": "2026-10-01",
+      "value": 337.511
+    },
+    "EFFR": {
+      "date": "2026-11-17",
+      "value": 3.88
+    },
+    "H10_CADUSD": {
+      "date": "2026-11-13",
+      "value": 1.4256
+    },
+    "US10Y": {
+      "date": "2026-11-17",
+      "value": 5.1
+    },
+    "V39079": {
+      "date": "2026-11-17",
+      "value": 2.5
+    }
+  },
+  "source_count": 10
+}

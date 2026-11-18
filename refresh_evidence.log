@@ -1,0 +1,57 @@
+History note: Entries through 2026-11-18T18:57:41Z are development checks from before the FX series was switched from Bank of Canada FXUSDCAD to Federal Reserve H.10. The current implementation uses H.10 (`H10_CADUSD`) for continuous 2015+ coverage and for the 2016 real-rate base. See the current source verification table for the authoritative checks.
+
+2026-11-18T18:55:28+00:00 | SUCCESS | baseline check; no prior scheduled check to compare | 10/10 raw series checked
+  2062815: 2026-10-01 = 6.7
+  41690973: 2026-10-01 = 170.4
+  62305752: 2026-06-01 = 2524127.0
+  87008984: 2026-09-01 = 5350.1
+  BD.CDN.10YR.DQ.YLD: 2026-11-16 = 3.81
+  CUUR0000SA0: 2026-10-01 = 337.511
+  EFFR: 2026-11-17 = 3.88
+  FXUSDCAD: 2026-11-17 = 1.4291
+  US10Y: 2026-11-17 = 5.1
+  V39079: 2026-11-17 = 2.5
+2026-11-18T18:56:20+00:00 | SUCCESS | no new or revised observations since the previous check | 10/10 raw series checked
+  2062815: 2026-10-01 = 6.7
+  41690973: 2026-10-01 = 170.4
+  62305752: 2026-06-01 = 2524127.0
+  87008984: 2026-09-01 = 5350.1
+  BD.CDN.10YR.DQ.YLD: 2026-11-16 = 3.81
+  CUUR0000SA0: 2026-10-01 = 337.511
+  EFFR: 2026-11-17 = 3.88
+  FXUSDCAD: 2026-11-17 = 1.4291
+  US10Y: 2026-11-17 = 5.1
+  V39079: 2026-11-17 = 2.5
+2026-11-18T18:57:41+00:00 | SUCCESS | no new or revised observations since the previous check | 10/10 raw series checked
+  2062815: 2026-10-01 = 6.7
+  41690973: 2026-10-01 = 170.4
+  62305752: 2026-06-01 = 2524127.0
+  87008984: 2026-09-01 = 5350.1
+  BD.CDN.10YR.DQ.YLD: 2026-11-16 = 3.81
+  CUUR0000SA0: 2026-10-01 = 337.511
+  EFFR: 2026-11-17 = 3.88
+  FXUSDCAD: 2026-11-17 = 1.4291
+  US10Y: 2026-11-17 = 5.1
+  V39079: 2026-11-17 = 2.5
+2026-11-18T19:10:25+00:00 | SUCCESS | new or revised observations: H10_CADUSD | 10/10 raw series checked
+  2062815: 2026-10-01 = 6.7
+  41690973: 2026-10-01 = 170.4
+  62305752: 2026-06-01 = 2524127.0
+  87008984: 2026-09-01 = 5350.1
+  BD.CDN.10YR.DQ.YLD: 2026-11-16 = 3.81
+  CUUR0000SA0: 2026-10-01 = 337.511
+  EFFR: 2026-11-17 = 3.88
+  H10_CADUSD: 2026-11-13 = 1.4256
+  US10Y: 2026-11-17 = 5.1
+  V39079: 2026-11-17 = 2.5
+2026-11-18T19:10:37+00:00 | SUCCESS | no new or revised observations since the previous check | 10/10 raw series checked
+  2062815: 2026-10-01 = 6.7
+  41690973: 2026-10-01 = 170.4
+  62305752: 2026-06-01 = 2524127.0
+  87008984: 2026-09-01 = 5350.1
+  BD.CDN.10YR.DQ.YLD: 2026-11-16 = 3.81
+  CUUR0000SA0: 2026-10-01 = 337.511
+  EFFR: 2026-11-17 = 3.88
+  H10_CADUSD: 2026-11-13 = 1.4256
+  US10Y: 2026-11-17 = 5.1
+  V39079: 2026-11-17 = 2.5
