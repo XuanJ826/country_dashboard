@@ -1,0 +1,48 @@
+{
+  "change_note": "baseline check; no prior scheduled check to compare",
+  "check_type": "GitHub Actions weekday scheduled refresh",
+  "last_success_utc": "2026-11-20T23:31:38+00:00",
+  "raw_latest": {
+    "2062815": {
+      "date": "2026-10-01",
+      "value": 6.7
+    },
+    "41690973": {
+      "date": "2026-10-01",
+      "value": 170.4
+    },
+    "62305752": {
+      "date": "2026-06-01",
+      "value": 2524127.0
+    },
+    "87008984": {
+      "date": "2026-09-01",
+      "value": 5350.1
+    },
+    "BD.CDN.10YR.DQ.YLD": {
+      "date": "2026-11-19",
+      "value": 3.81
+    },
+    "CUUR0000SA0": {
+      "date": "2026-10-01",
+      "value": 337.511
+    },
+    "EFFR": {
+      "date": "2026-11-19",
+      "value": 3.88
+    },
+    "H10_CADUSD": {
+      "date": "2026-11-13",
+      "value": 1.4256
+    },
+    "US10Y": {
+      "date": "2026-11-20",
+      "value": 4.92
+    },
+    "V39079": {
+      "date": "2026-11-19",
+      "value": 2.5
+    }
+  },
+  "source_count": 10
+}
