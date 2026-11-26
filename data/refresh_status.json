@@ -1,7 +1,7 @@
 {
   "change_note": "new or revised observations: V39079, BD.CDN.10YR.DQ.YLD, EFFR, US10Y",
   "check_type": "GitHub Actions weekday scheduled refresh",
-  "last_success_utc": "2026-11-25T04:46:01+00:00",
+  "last_success_utc": "2026-11-26T03:54:29+00:00",
   "raw_latest": {
     "2062815": {
       "date": "2026-10-01",
@@ -20,15 +20,15 @@
       "value": 5350.1
     },
     "BD.CDN.10YR.DQ.YLD": {
-      "date": "2026-11-23",
-      "value": 3.68
+      "date": "2026-11-24",
+      "value": 3.67
     },
     "CUUR0000SA0": {
       "date": "2026-10-01",
       "value": 337.511
     },
     "EFFR": {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "value": 3.88
     },
     "H10_CADUSD": {
@@ -36,11 +36,11 @@
       "value": 1.4323
     },
     "US10Y": {
-      "date": "2026-11-24",
-      "value": 4.91
+      "date": "2026-11-25",
+      "value": 4.85
     },
     "V39079": {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "value": 2.5
     }
   },
